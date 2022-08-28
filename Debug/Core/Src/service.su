@@ -1,0 +1,9 @@
+service.c:21:12:add_simple_services	96	static
+service.c:42:6:process_rx_event	24	static
+service.c:54:6:send_data	32	static
+service.c:73:6:attribute_modified_callback	16	static
+service.c:89:6:aci_gatt_attribute_modified_event	24	static
+service.c:97:7:aci_gatt_notification_event	24	static
+service.c:110:6:hci_le_connection_complete_event	16	static
+service.c:124:6:hci_disconnection_complete_event	16	static
+service.c:136:6:APP_UserEvRx	40	static
